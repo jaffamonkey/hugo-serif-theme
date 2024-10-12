@@ -29,7 +29,7 @@
     {{ if .Site.Params.homepage.show_services_button }}
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services/" | relURL }}">View All Services</a>
+        <a class="button button-primary" href="{{ " services/" | relURL }}">View All Services</a>
       </div>
     </div>
     {{ end }}
@@ -38,7 +38,7 @@
 {{end}}
 
 {{if .Site.Data.features}}
-<div class="strip strip-grey">
+<!-- <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
       {{ range .Site.Data.features }}
@@ -57,7 +57,7 @@
       {{end}}
     </div>
   </div>
-</div>
+</div> -->
 {{end}}
 
 {{ end }}
