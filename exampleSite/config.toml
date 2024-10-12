@@ -21,9 +21,9 @@ title = "Hugo Serif Theme"
 
   [params.logo]
     mobile = "images/logo/apple-touch-icon.png"
-    mobile_height = "36px"
+    mobile_height = "50px"
     desktop = "images/logo/logo.png"
-    desktop_height = "36px"
+    desktop_height = "50px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
