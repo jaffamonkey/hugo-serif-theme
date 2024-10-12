@@ -157,7 +157,7 @@ You can edit the favicon from the `config.toml`
 [params]
   google_analytics_id = "UA-XXX-1"
   google_tag_manager_id = ""
-  favicon = "favicon-32x32.svg"
+  favicon = "favicon-32x32.png"
 ```
 
 ### Fonts
