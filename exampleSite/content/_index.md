@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 
 #### Quality engineering
 
-I can bring improvements to your design and development cycles, to enable more efficient testing from Sprint to Sprint. The [Quality engineering](http://localhost:1313/quality-engineering/) approach is to build-in quality into your software from the very beginning. It encompasses a set of principles and practices aimed at preventing defects, and to ensure that quality is ingrained in every phase of your software development process.
+I can bring improvements to your design and development cycles, to enable more efficient testing from Sprint to Sprint. The [Quality engineering](http://localhost:1313/quality-engineering/) approach is to build-in quality into your software from the very beginning.
 
 #### Accessibility audits
 
