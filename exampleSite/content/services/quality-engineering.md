@@ -4,10 +4,8 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
-summary: "Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses."
+summary: "Bringing quality to all aspects of a project, bringing quality assurance and testing to the SDLC, from design to production."
 ---
-
-> Bringing quality to all aspects of a project, bringing quality assurance and testing to the SDLC, from design to production.
 
 If you are trying to `shift left`, I can help bring testing earlier and more frequently, into the design and development cycles.
 
