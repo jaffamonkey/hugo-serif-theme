@@ -8,6 +8,12 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+> From corporations to startups, my 25 year contract career got me involved in projects, across many industries, where I gained a rich technical and soft-skills.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+#### Quality engineering
+
+I can bring improvements to your design and development cycles, to enable more efficient testing from Sprint to Sprint. The [Quality engineering](http://localhost:1313/quality-engineering/) approach is to build-in quality into your software from the very beginning. It encompasses a set of principles and practices aimed at preventing defects, and to ensure that quality is ingrained in every phase of your software development process.
+
+#### Accessibility audits
+
+Get an [accessibility audit](http://localhost:1313/accessibility-audit/), of your web and/or mobile app, and get useful reporting feedback and help with bringing Accessibility into your design and development pipelines. 
