@@ -24,3 +24,5 @@ We can work out timescales and tasks, depending on your needs and budget. Whethe
 - Integrating testing into CI/CD pipelines as early as possible.
 
 ![Quality engineering clients](/images/illustrations/clients-qe.png)
+
+![Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)

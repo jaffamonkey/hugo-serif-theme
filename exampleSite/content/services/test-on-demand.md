@@ -8,3 +8,5 @@ summary: "You can hire my services from a day to 2 weeks, to help you with a tes
 ---
 
 My career has spanned many industries and projects, and has left me with a pragmatic edge to my services. 
+
+![Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
