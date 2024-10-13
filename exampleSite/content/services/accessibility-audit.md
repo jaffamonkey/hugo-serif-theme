@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
+intro_image: "images/illustrations/reading.svg"
 summary: "Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production."
 ---
 
