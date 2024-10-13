@@ -43,4 +43,4 @@ Treat an audit as a startpoint, to integrating accessibility checks earlier in t
 
 ![Accessibility audit clients](/images/illustrations/clients.png)
 
-![Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+[Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)

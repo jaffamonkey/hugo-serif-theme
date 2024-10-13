@@ -25,4 +25,4 @@ We can work out timescales and tasks, depending on your needs and budget. Whethe
 
 ![Quality engineering clients](/images/illustrations/clients-qe.png)
 
-![Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+[Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)

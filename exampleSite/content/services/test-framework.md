@@ -9,4 +9,4 @@ summary: "I can use my wealth of technical testing experties, to build test frea
 
 I can use my wealth of technical testing experties, to build test freameowkrs that suits you environment, with example tests and some training for your budding test engineers
 
-![Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+[Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
