@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 featured: false
 draft: false
 weight: 2
-summary: "I can use my wealth of technical testing experties, to build test freameowkrs that suits you environment, with example tests and some training for your budding test engineers"
+summary: "I can use my wealth of technical testing experties, to build test freameowkrs that suits you environment, with example tests and some training"
 ---
 
 I can use my wealth of technical testing experties, to build test freameowkrs that suits you environment, with example tests and some training for your budding test engineers
