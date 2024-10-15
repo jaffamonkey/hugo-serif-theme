@@ -1,8 +1,6 @@
 <div class="call">
-  <div class="call-box-top">
-    <div class="call-phone">
-      <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">Contact details</a>
-    </div>
+  <div class="call-box-bottom">
+    <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">Contact details</a>
   </div>
   {{ if eq .show_button "true" }}
   <div class="call-box-bottom">
