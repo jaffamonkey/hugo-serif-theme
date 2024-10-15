@@ -8,10 +8,8 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-## Quality engineering
+# Quality matters
 
-I can bring improvements to your design and development cycles, to enable more efficient testing from Sprint to Sprint. The [Quality engineering](http://localhost:1313/quality-engineering/) approach is to build-in quality into your software from the very beginning.
+Whether adding full Quality engineering to your design and development pipelines, or simply putting your web or mobile app through an Accessibility audit, 25 years of experience comes into play. 
 
-## Accessibility audits
-
-Get an [accessibility audit](http://localhost:1313/accessibility-audit/), of your web and/or mobile app, and get useful reporting feedback and help with bringing Accessibility into your design and development pipelines. 
+I work with transparency and a supportive approach, retaining pragmatism with every testing decisions.
