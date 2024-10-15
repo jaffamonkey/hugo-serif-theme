@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 
 # Quality matters
 
-Whether adding full Quality engineering to your design and development pipelines, or simply putting your web or mobile app through an Accessibility audit, 25 years of experience comes into play. 
+When I add full quality engineering to a design and development pipelines, or simply putting a web or mobile app through an Accessibility audit, 25 years of experience comes into play. 
 
 I work with transparency and a supportive approach, retaining pragmatism with every testing decisions.
