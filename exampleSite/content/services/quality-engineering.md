@@ -3,7 +3,7 @@ title: "Quality engineering"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
-weight: 2
+weight: 1
 summary: "Bringing quality to all aspects of a project, bringing quality assurance and testing to the SDLC, from design to production."
 ---
 
