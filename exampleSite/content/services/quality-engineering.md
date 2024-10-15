@@ -13,9 +13,7 @@ Startups make up the bulk of clients, and I enjoy working with that kind of vibe
 
 ## How does it work?
 
-We can work out timescales and tasks, depending on your needs and budget. Whether you want a little help getting more automation in your pipeline, or need some eneral app performance checks, I can deliver results.
-
-This won't be done in isolation - it's not the 1990's, so it's just just a matter to deliverables, it's about engagement with you and your team to ensure you have input you need.
+We can work out timescales and tasks, depending on your needs and budget. Whether you want a little help getting more automation in your pipeline, or need some eneral app performance checks, I can deliver results. 
 
 ## The focus
 - Adaptive test strategies.
