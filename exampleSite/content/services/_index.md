@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Quality in the pipeline
+# Quality matters
 
 > Testing strategies to help you implement new tools and approaches across teams.
 
