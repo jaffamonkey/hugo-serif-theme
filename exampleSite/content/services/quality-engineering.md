@@ -17,13 +17,13 @@ We can work out timescales and tasks, depending on your needs and budget. Whethe
 
 This won't be done in isolation - it's not the 1990's, so it's just just a matter to deliverables, it's about engagement with you and your team to ensure you have input you need.
 
-## The focus
+## Deliverables
 - Adaptive test strategies.
 - Applying quality checks from design through to development.
-- UI test frameworks to do richer tests, focused on UX.
+- UI test frameworks
 - API test frameworks with service virtulisation to ensure test continuity.
 - Performance tests with every build to check Accessibility, Load and Security.
-- Integrating testing into CI/CD pipelines as early as possible.
+- Integration of tests into CI/CD pipelines.
 
 ![Quality engineering clients](/images/illustrations/clients-qe.png)
 
