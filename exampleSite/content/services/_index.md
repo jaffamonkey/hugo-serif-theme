@@ -6,6 +6,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Quality in the pipeline
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+* Testing strategies to help you implement new tools and approaches across teams.
+* Test engineering architecture and implementation within your CI/CD pipelines. 
+* Process improvements to enable more efficient testing from Sprint to Sprint.
