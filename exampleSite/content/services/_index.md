@@ -8,6 +8,8 @@ intro_image_hide_on_mobile: false
 
 # Quality in the pipeline
 
-* Testing strategies to help you implement new tools and approaches across teams.
-* Test engineering architecture and implementation within your CI/CD pipelines. 
-* Process improvements to enable more efficient testing from Sprint to Sprint.
+> Testing strategies to help you implement new tools and approaches across teams.
+
+> Test engineering architecture and implementation within your CI/CD pipelines. 
+
+> Process improvements to enable more efficient testing from Sprint to Sprint.
