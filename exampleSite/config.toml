@@ -23,7 +23,7 @@ title = "Hugo Serif Theme"
     mobile = "images/logo/apple-touch-icon.png"
     mobile_height = "50px"
     desktop = "images/logo/logo.png"
-    desktop_height = "50px"
+    desktop_height = "40px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
@@ -55,25 +55,21 @@ title = "Hugo Serif Theme"
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
 
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 1
+
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 2
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
   # Footer Menu
   [[menu.footer]]
@@ -82,6 +78,16 @@ title = "Hugo Serif Theme"
     weight = 1
 
   [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+  [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 4
