@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: false
 
 > Testing strategies to help you implement new tools and approaches across teams.
 
-> Test engineering architecture and implementation within your CI/CD pipelines. 
+> Test architecture of test frameworks for your CI/CD pipelines. 
 
-> Process improvements to enable more efficient testing from Sprint to Sprint.
+> Accessibility audits, with test frameworks, to add accessibility checks to the design and development pipelines.
