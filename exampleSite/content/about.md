@@ -20,4 +20,3 @@ I learnt early on to take a lean approach to testing - including strategy, repor
 * Test Architecture/Frameworks
 * Tester Coaching
 * Accessibility reviews and automation
- 
