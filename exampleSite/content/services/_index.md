@@ -7,10 +7,10 @@ intro_image_hide_on_mobile: false
 ---
 
 # Testing services
-> Quality Engineering from Design to Production.
+`Quality Engineering from Design to Production.`
 
-> Test Engineering in CI/CD pipelines.
+`Test Engineering in CI/CD pipelines.`
 
-> Performance testing to ensure apps are both secure and stable.
+`Performance testing to ensure apps are both secure and stable.`
 
-> Accessibility reviews and automation.
+`Accessibility reviews and automation.`
