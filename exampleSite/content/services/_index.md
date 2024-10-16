@@ -7,4 +7,7 @@ intro_image_hide_on_mobile: false
 ---
 
 # Testing services
-> Whether adding full Quality engineering to your design and development pipelines, or simply putting your web or mobile app through an Accessibility audit, 25 years of experience comes into play. I work with transparency and a supportive approach.
+* Quality Engineering from Design to Production.
+* Test Engineering in CI/CD pipelines.
+* Performance testing to ensure apps are both secure and stable.
+* Accessibility reviews and automation
