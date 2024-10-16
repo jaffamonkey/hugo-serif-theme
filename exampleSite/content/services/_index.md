@@ -7,10 +7,9 @@ intro_image_hide_on_mobile: false
 ---
 
 # Testing services
-`Quality Engineering from Design to Production.`
 
-`Test Engineering in CI/CD pipelines.`
+> I can help implement Quality Engineering from Design to Production, adding tests to CI/CD pipelines, along with performance testing to ensure apps are both secure and stable.
 
-`Performance testing to ensure apps are both secure and stable.`
+> Your business has to make decisions daily, and to help with that, you can secure my services for a day or any period, with no contractual obligations outside of this.
 
-`Accessibility reviews and automation.`
+>The accessibility audit comes with extensive reporting, and I can assist with adding process and tools to your design and development cycles.
