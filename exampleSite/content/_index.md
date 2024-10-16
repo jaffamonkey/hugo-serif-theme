@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 
 # Quality matters
 
-> When I add quality engineering to design & development pipelines, or put a web/mobile app through an accessibility audit, it's backed by 25 years of experience. 
+> When I add quality engineering to design & development pipelines, or put a web/mobile app through an accessibility audit, it's backed by 25 years of freelancer experience. 
 
 > I work with transparency and a supportive approach, applying pragmatism to every testing decision.
