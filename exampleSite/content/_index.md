@@ -12,4 +12,4 @@ intro_image_hide_on_mobile: true
 
 > When I add quality engineering to design & development pipelines, or put a web/mobile app through an accessibility audit, it's backed by 25 years of experience. 
 
-> I work with transparency and a supportive approach, retaining pragmatism with every testing decisions.
+> I work with transparency and a supportive approach, applying pragmatism to every testing decision.
