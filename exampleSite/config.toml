@@ -59,7 +59,7 @@ title = "jaffamonkey"
     weight = 1
 
   [[menu.main]]
-    name = "Services"
+    name = "Testing services"
     url = "/services/"
     weight = 2
 
