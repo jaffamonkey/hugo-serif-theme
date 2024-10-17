@@ -11,4 +11,6 @@ intro_image_hide_on_mobile: false
 
 > I can help implement Quality Engineering from Design to Production, adding tests to CI/CD pipelines, along with performance testing to ensure apps are both secure and stable.
 
+> Accessibility audits, with guidance for your design and development teams.
+
 > Your business has to adapt daily, and to help with that, you can secure my services for any period.
