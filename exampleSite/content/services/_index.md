@@ -1,7 +1,7 @@
 ---
 title: 'Testing services'
 description: 'We offer a range of services to help your business'
-intro_image: "images/illustrations/services.png"
+intro_image: "images/illustrations/home.png"
 intro_image_absolute: true
 intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
 intro_image_hide_on_mobile: false
