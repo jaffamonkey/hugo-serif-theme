@@ -7,7 +7,7 @@ date: 2021-02-22T17:01:34+07:00
 
 This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to ...
 
-* change colours, contrast levels and fonts using browser or device settings
+* change colors, contrast levels and fonts using browser or device settings
 * zoom in up to 200% without the text spilling off the screen
 * navigate most of the website using a keyboard or speech recognition software
 * listen to most of the website using a screen reader (including NVDA and VoiceOver)

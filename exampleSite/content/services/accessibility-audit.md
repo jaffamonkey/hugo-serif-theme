@@ -31,7 +31,7 @@ Furthermore, our focus on DevOps integration is a unique aspect of our consultan
 
 ## What you will get
 - A full accessibility review and test of web or mobile app against the WCAG 2.2 AA standard.
-- Delivery of a full, prioritised accessibility report of web and/or mobile app
+- Delivery of a full, prioritized accessibility report of web and/or mobile app
 - Feedback on UX as well as UI issues.
 - An accessibility statement advising on status of WCAG 2.2 AA compliance.
 - Automated accessibility test framework(s) for your design and development cycles.
