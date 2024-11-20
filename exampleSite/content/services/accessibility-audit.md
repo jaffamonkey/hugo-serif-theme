@@ -42,3 +42,11 @@ Treat an audit as a startpoint, to integrating accessibility checks earlier in t
 ![Accessibility audit clients](/images/illustrations/clients.png)
 
 [Book a meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+
+
+Delivery of a full, prioritized accessibility report Squirrel web app
+Feedback on UX as well as UI issues.
+An accessibility statement advising on status of WCAG 2.2 AA compliance.
+Approach strategy to resolving issues and ongoing checks
+Screenreader video recordings
+Optional: a11y test framework for automation

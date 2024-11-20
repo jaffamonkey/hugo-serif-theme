@@ -3,8 +3,6 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Less about me personally, this is to give you an idea with my approach and thoughts on testing.
-
 I have been working in area of testing and quality for over 25 years. Do I enjoy it? Well, my head does like puzzles to work out! The challenges of testing provide technical and human puzzles. I am very technically-focused, but also adept with teams.  Communication is key in testing, and that is something I have carried from contract to contract.
 
 I started out in the tail of of the 1990's, when Waterfall was still common and testing was judged by the weight of arch-lever files (only half-joking).  When I jumped on Agile train in 2002, I found more inspiration in testing - not least from opensource world. As technical demands on testers grew in the 00's, I grew with them. 
