@@ -3,7 +3,6 @@
   <blockquote>
     <h2 class="title">I've never heard of you" ~ A world-famous Agile coach</h2>
   </blockquote>
-  {{ .Content }}
   {{ if .Site.Params.homepage.show_contact_box }}
   {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
   {{ end }}
